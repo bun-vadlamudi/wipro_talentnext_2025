@@ -11,7 +11,7 @@ public class Question_1 {
         String location = args[1];
 
         // Final Output
-        System.out.println(args[0] + " Technologies " + args[1]);
+        System.out.println(companyName + " Technologies " + location);
         System.out.println(args[2] + " Technologies "+ args[3]);
     }
 }
